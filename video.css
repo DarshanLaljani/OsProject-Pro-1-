@@ -1,0 +1,36 @@
+body {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    border: 13px rgb(2, 120, 189) solid;
+    
+  }
+
+
+
+video {
+    border-radius: 10px;
+    border: rgb(1, 21, 63) 4px solid;
+    box-shadow: inset 2px 2px 3px 4px rgb(0, 47, 255);
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 54%;
+margin-top: 6%;
+margin-bottom: auto;
+}
+h1{
+color: rgb(0, 0, 0);
+text-align: center;
+font-weight: 700;
+font-size: 50px;
+
+}
+
+.head{
+display: block;
+margin-left: 30%;
+margin-right: 40%;
+margin-bottom: 2%;
+}
